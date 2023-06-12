@@ -1,0 +1,15 @@
+body{
+    background-image: url(fon1.png);
+    background-size: cover;
+    color: white;
+}
+button{
+    background-color: rgb(53, 177, 4);
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+}
+button:hover{
+    box-shadow: 1px 1px 20px green;
+    
+}
